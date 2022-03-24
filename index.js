@@ -1106,7 +1106,7 @@ if (!isBotGroupAdmins) return replysticker(botadmstc)
 if (!isOwner) return replysticker(ownerstc)
 anu = fs.readFileSync('strg/image/gaklah.jpeg')
 client.updateProfilePicture(from, anu)
-client.groupUpdateSubject(from, `Hacked Siegrin`)
+client.groupUpdateSubject(from, `Hacked KazuKi`)
 client.groupUpdateDescription(from, `Mampos Gw Kudet`)
 client.groupSettingChange(from, GroupSettingChange.messageSend, true)
 setTimeout(() => {
@@ -3076,7 +3076,7 @@ const gtts = require('./lib/bot/gtts')(args[0])
 ranm = getRandom('.mp3')
 rano = getRandom('.ogg')
 q.length > 600
-? reply('Textnya kebanyakan setan!!')
+? reply('Textnya kebanyakan bangsat!!')
 : gtts.save(ranm, q, function() {
 exec(`ffmpeg -i ${ranm} -ar 48000 -vn -c:a libopus ${rano}`, (err) => {
 fs.unlinkSync(ranm)
@@ -3091,7 +3091,7 @@ const gtts = require('./lib/bot/gtts')('id')
 ranm = getRandom('.mp3')
 rano = getRandom('.ogg')
 q.length > 600
-? reply('Textnya kebanyakan setan!!')
+? reply('Textnya kebanyakan kntl!!')
 : gtts.save(ranm, q, function() {
 exec(`ffmpeg -i ${ranm} -ar 48000 -vn -c:a libopus ${rano}`, (err) => {
 fs.unlinkSync(ranm)
