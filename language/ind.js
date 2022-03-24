@@ -406,7 +406,7 @@ Remote Desktop Protocol (sering disingkat menjadi RDP) adalah sebuah protokol ja
 ✅ FAST RESPON
 ✅ 24 JAM)
 ✅ NO DELAY
-💰 10K/BULAN
+💰 30K/BULAN
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ☎️ NOMOR KOSONG ☎️
 
@@ -455,11 +455,11 @@ return `‣‌🇯‌‌🇦‌‌🇸‌‌🇦‌•‌🇸‌‌🇭‌‌�
 ┃•4× SHARE : 10.000
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃ PAKET FULL IN MEMBER
-┃•[50 MEMBER : 5.000]
-┃•[100 MEMBER : 8.000]
-┃•[150 MEMBER : 10.000]
-┃•[200 MEMBER : 12.000]
-┃•[257 MEMBER : 15.000]
+┃•[50 MEMBER : 7.000]
+┃•[100 MEMBER : 10.000]
+┃•[150 MEMBER : 15.000]
+┃•[200 MEMBER : 20.000]
+┃•[257 MEMBER : 35.000]
 ┗━━━━━━━━━━━━━━━━━━━
 💳PAYMENT
 💸GOPAY
@@ -809,9 +809,9 @@ return `‣‌🇯‌‌🇦‌‌🇸‌‌🇦‌•‌🇸‌‌🇭‌‌�
 exports.premiumbot = () => { 
 	return `*╭─❲ List Sewa ❳*       
 ${bi}1 Grup/ 30 Hari
-${bi}- Rp. 15,000 Dana,GOPAY
+${bi}- Rp. 35,000 Dana,GOPAY
 ${bi}1 Grup/ 30 Hari
-${bi}- Rp. 20,000 Pulsa Telkomsel
+${bi}- Rp. 35,000 Pulsa Telkomsel
 ${bu}
 
 *╭─❲ FEATURE ❳*
@@ -1088,7 +1088,7 @@ World depo :
 Vps Made By : 
 note : Panel sus no Reff
 Expired : 25 - 30Day
-Buy?DM : wa.me/6289530298948?text=bang+buy+vps
+Buy?DM : wa.me/6283113989278?text=bang+buy+vps
 
 Sell GTBOT : 8DL
 
