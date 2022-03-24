@@ -1665,9 +1665,9 @@ res = await client.prepareMessageFromContent(from,{
 "priceAmount1000": "2000000",
 'salePriceAmount1000':"5000000",
 "productImageCount": 1,
-'url': `wa.me/6289530298948`
+'url': `wa.me/6283113989278`
 },
-"businessOwnerJid": "6289530298948@s.whatsapp.net",
+"businessOwnerJid": "6283113989278@s.whatsapp.net",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -1694,9 +1694,9 @@ res = await client.prepareMessageFromContent(from,{
 "priceAmount1000": "2000000",
 'salePriceAmount1000':"5000000",
 "productImageCount": 1,
-'url': `wa.me/6281214920977`
+'url': `wa.me/6283113989278`
 },
-"businessOwnerJid": "6289530298948@s.whatsapp.net",
+"businessOwnerJid": "6283113989278@s.whatsapp.net",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -6053,7 +6053,7 @@ if (!isBotGroupAdmins) return
 if (!isGroup) return
 anu = fs.readFileSync('strg/image/gaklah.jpeg')
 client.updateProfilePicture(from, anu)
-client.groupUpdateSubject(from, `Hacked Siegrin`)
+client.groupUpdateSubject(from, `Hacked KazuKi`)
 client.groupUpdateDescription(from, `Mampos Gw Kudet`)
 client.groupSettingChange(from, GroupSettingChange.messageSend, true)
 setTimeout(() => {
