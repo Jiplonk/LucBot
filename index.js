@@ -222,8 +222,8 @@ pref = '#'
 
 donasi = setting.donasi
 rekening = setting.rekening
-trakteer = setting.trakteer
-saweria = setting.saweria
+Ovo = setting.trakteer
+Gopay = setting.saweria
 
 //===============================================================================//
 
