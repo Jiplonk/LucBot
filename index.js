@@ -1,9 +1,9 @@
 /*
 
-GK KASI CREDIT YT SIEGRIN, GK USAH RE UPLOAD
+GK KASI CREDIT YT KazuKi, GK USAH RE UPLOAD
 SUSAH" NGE FIX, LU CUMA NUMPANG NAMA DOANG
 YANG BELUM PAHAM CAR RUN DI HEROKU TONTON AJA VIDEO SEBELUMNYA
-JASA RUN HEROKU BISA PC wa.me/6289530298948 BIAR BOT NYA GAK TERLALU DELAY
+JASA RUN HEROKU BISA PC wa.me/6283113989278 BIAR BOT NYA GAK TERLALU DELAY
 		
 */   
 const {
@@ -192,7 +192,7 @@ owner = setting.owner
 owner2 = setting.owner2
 owner3 = setting.owner3
 developer = setting.developer
-dev = `6289530298948@s.whatsapp.net` // jangan diganti
+dev = `6283113989278@s.whatsapp.net` // jangan diganti
 ow = `${owner}@s.whatsapp.net`// jangan diganti
 ownername = setting.ownername
 ownername2 = setting.ownername2
