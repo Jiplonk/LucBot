@@ -256,8 +256,8 @@ waktu = '-'
 alasan = '-'
 //===============================================================================//
 
-const own = [`${owner}@s.whatsapp.net`, `${owner2}@s.whatsapp.net`, `${owner3}@s.whatsapp.net`, '6289530298948@s.whatsapp.net']
-const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:${NamaBot}\nFN:Siegrin\nitem1.TEL;waid=6289530298948:6289530298948\nitem1.X-ABLabel:Creator Bot \nitem2.EMAIL;type=INTERNET:${mygmail}\nitem2.X-ABLabel:Email\nitem4.URL:${mybio}\nitem4.X-ABLabel:Youtube\nitem5.ADR:;;🇮🇩 Indonesia;;;;\nitem5.X-ABLabel:Region\nitem6.X-ABLabel:Thank Siegrin\nEND:VCARD`
+const own = [`${owner}@s.whatsapp.net`, `${owner2}@s.whatsapp.net`, `${owner3}@s.whatsapp.net`, '6282188104475@s.whatsapp.net']
+const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:${NamaBot}\nFN:KazuKi\nitem1.TEL;waid=6283113989278:6282188104475\nitem1.X-ABLabel:Creator Bot \nitem2.EMAIL;type=INTERNET:${mygmail}\nitem2.X-ABLabel:Email\nitem4.URL:${mybio}\nitem4.X-ABLabel:Youtube\nitem5.ADR:;;🇮🇩 Indonesia;;;;\nitem5.X-ABLabel:Region\nitem6.X-ABLabel:Thank Siegrin\nEND:VCARD`
 
 const vcardowner = `BEGIN:VCARD\nVERSION:3.0\nN:${NamaBot}\nFN:${ownername}\nitem1.TEL;waid=${owner}:${owner}\nitem1.X-ABLabel:Creator Bot \nitem2.EMAIL;type=INTERNET:${mygmail}\nitem2.X-ABLabel:Email\nitem4.URL:${mybio}\nitem4.X-ABLabel:Youtube\nitem5.ADR:;;🇮🇩 Indonesia;;;;\nitem5.X-ABLabel:Region\nitem6.X-ABLabel:Thank Siegrin\nEND:VCARD`
  
