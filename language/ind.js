@@ -731,7 +731,7 @@ Kebijakan Privasi
 7.Owner Bot dapat melihat riwayat chat, dan media yang dikirimkan users.
 
 -Luc
--Siegrin
+-KazuKi
 
 Peraturan: 19 Juli 2021\n
 `}
@@ -846,7 +846,7 @@ Remote Desktop Protocol (sering disingkat menjadi RDP) adalah sebuah protokol ja
 ✅ FAST RESPON
 ✅ 24 JAM)
 ✅ NO DELAY
-💰 10K/BULAN
+💰 50K/BULAN
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ☎️ NOMOR KOSONG ☎️
 
