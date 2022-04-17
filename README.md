@@ -13,7 +13,7 @@ use this [branch](https://github.com/seigrin/) if you want to use MD!
   </p>
   
  <p align="center">
- <a href="#"><img title="🐊Luc Bot🐊" src="https://img.shields.io/badge/Luc Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="🐊KazuKi🐊" src="https://img.shields.io/badge/Luc Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Siegrin"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Siegrin-blue.svg?style=for-the-badge&logo=github"></a>
@@ -36,10 +36,10 @@ use this [branch](https://github.com/seigrin/) if you want to use MD!
 
 ---------
 ## ```Connect With Me``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6289530298948">
+  <a href="https://wa.me/6283113989278">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCrZhYLblOWitPnKBZYFQPPw">
+  <a href="https://youtube.com/channel/UCueojYUvg1lLgdoWeX82UMw">
     <img align="left" alt="SIEGRIN | Youtube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@siegrin">
@@ -107,8 +107,8 @@ use this [branch](https://github.com/seigrin/) if you want to use MD!
 [![Whatsapp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289520198948/)
 
  ## ```Donasi```
-* [`Saweria`](https://saweria.co/siegrin)
-* [`Trakteer`](https://trakteer.id/siegrin__/tip)
+* [`Dana`]082323341102)
+* [`Ovo`](083113989278)
 
  ## ```Thanks to```
 * [`Allah SWT`](https://github.com/siegrin)
